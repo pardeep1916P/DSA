@@ -15,7 +15,7 @@
  */
 class Solution {
 
-    public HashSet<Integer> set = new HashSet<>();
+    public HashSet<Integer> set = new HashSet<>(); //global hashset
 
     public boolean findTarget(TreeNode root, int k) {
         return dfs(root, k);
