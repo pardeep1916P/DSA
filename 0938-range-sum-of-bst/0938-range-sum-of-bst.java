@@ -25,9 +25,8 @@ class Solution {
 
     private void inorder(TreeNode root, int low, int high) {
         if (root == null) return;
+        if (root.val > low ) inorder(root.left, low, high);
         if (root.val <= high && root.val >= low) total += root.val;
-        if (root.left != null) inorder(root.left, low, high);
-        if (root.right != null) inorder(root.right, low, high);
-
+        if (root.val < high) inorder(root.right, low, high);
     }
 }
