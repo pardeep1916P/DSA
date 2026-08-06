@@ -30,12 +30,16 @@
       "search-in-a-binary-search-tree.java": "bddd51a6f14d23bd8efd72ecaa1d5da19b488fe9",
       "search-in-a-binary-search-tree.py": "4b5f5b6bb0049b7664ba9c7c47bb9fdc36f46d3c"
     },
+    "insert-into-a-binary-search-tree": {
+      "README.md": "a8251d9351a417fee51c554982b9a9f227ecbe2b",
+      "insert-into-a-binary-search-tree.java": "576df05d9c1f23c2a7b8ca03dbbbefa1edb00fb8"
+    },
     "README.md": {
-      "": "c55a06b3d9136cca7af68ee70fcd7f216058b0d1"
+      "": "21062c28103257283434bd5179e1d01c15b85666"
     },
     "stats.json": {
-      "": "dbfe277374858d31586d4ba0b81cb263da4085b8"
+      "": "2c289065e5195660ffca9d866d13176154888bb0"
     }
   },
-  "solved": 7
+  "solved": 8
 }
