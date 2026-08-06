@@ -16,12 +16,16 @@
       "README.md": "debeaf802e4a2db8889b5170574abe686f0114f1",
       "delete-node-in-a-bst.java": "e94e656cdddcb8771c268fd3f449b42ced215435"
     },
+    "minimum-absolute-difference-in-bst": {
+      "README.md": "bbc0a482537b396bbdc233194f0fa74f8e175291",
+      "minimum-absolute-difference-in-bst.java": "8d68cbdbf3661a5251ad657f6c8dd669e857d4d1"
+    },
     "README.md": {
-      "": "a25431a4502e71aa60b65cd63e6201cc90b24c97"
+      "": "6d42fb98d65de98d12571058db873a5b006d87cd"
     },
     "stats.json": {
-      "": "da33c55d5ccccdfd03f700c9ab2dd19c747989e4"
+      "": "1091e755d22e83b20acb9efc4e24322e1695d139"
     }
   },
-  "solved": 4
+  "solved": 5
 }
