@@ -9,7 +9,7 @@
 | 4 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst) | LeetCode #450 | [Java](./delete-node-in-a-bst/delete-node-in-a-bst.java) |
 | 5 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst) | LeetCode #530 | [Java](./minimum-absolute-difference-in-bst/minimum-absolute-difference-in-bst.java), [Python](./minimum-absolute-difference-in-bst/minimum-absolute-difference-in-bst.py) |
 | 6 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst) | LeetCode #653 | [Java](./two-sum-iv-input-is-a-bst/two-sum-iv-input-is-a-bst.java) |
-| 7 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree) | LeetCode #700 | [Java](./search-in-a-binary-search-tree/search-in-a-binary-search-tree.java) |
+| 7 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree) | LeetCode #700 | [Java](./search-in-a-binary-search-tree/search-in-a-binary-search-tree.java), [Python](./search-in-a-binary-search-tree/search-in-a-binary-search-tree.py) |
 
 ## Tree
 | # | Problem | Platform | Language |
@@ -20,7 +20,7 @@
 | 4 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst) | LeetCode #450 | [Java](./delete-node-in-a-bst/delete-node-in-a-bst.java) |
 | 5 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst) | LeetCode #530 | [Java](./minimum-absolute-difference-in-bst/minimum-absolute-difference-in-bst.java), [Python](./minimum-absolute-difference-in-bst/minimum-absolute-difference-in-bst.py) |
 | 6 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst) | LeetCode #653 | [Java](./two-sum-iv-input-is-a-bst/two-sum-iv-input-is-a-bst.java) |
-| 7 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree) | LeetCode #700 | [Java](./search-in-a-binary-search-tree/search-in-a-binary-search-tree.java) |
+| 7 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree) | LeetCode #700 | [Java](./search-in-a-binary-search-tree/search-in-a-binary-search-tree.java), [Python](./search-in-a-binary-search-tree/search-in-a-binary-search-tree.py) |
 
 ---
 *Synced automatically using [CodeSync](https://github.com/pardeep1916P/codeSync).*

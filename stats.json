@@ -27,13 +27,14 @@
     },
     "search-in-a-binary-search-tree": {
       "README.md": "9eea5b46992dbe6efa6b8a1649f7b08906137550",
-      "search-in-a-binary-search-tree.java": "bddd51a6f14d23bd8efd72ecaa1d5da19b488fe9"
+      "search-in-a-binary-search-tree.java": "bddd51a6f14d23bd8efd72ecaa1d5da19b488fe9",
+      "search-in-a-binary-search-tree.py": "4b5f5b6bb0049b7664ba9c7c47bb9fdc36f46d3c"
     },
     "README.md": {
-      "": "ea662f486f8c205a71e960ad37e5aeb178c5b1c3"
+      "": "c55a06b3d9136cca7af68ee70fcd7f216058b0d1"
     },
     "stats.json": {
-      "": "e265c3ec45f1d333151fcf0013cff7979e046988"
+      "": "dbfe277374858d31586d4ba0b81cb263da4085b8"
     }
   },
   "solved": 7
