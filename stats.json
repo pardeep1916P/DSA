@@ -25,12 +25,16 @@
       "README.md": "edc8c40e6b9f96bfac1f648fb2351be2b7e09cde",
       "two-sum-iv-input-is-a-bst.java": "e24bfb6bca163538f5e40962578df68a2a63d720"
     },
+    "search-in-a-binary-search-tree": {
+      "README.md": "9eea5b46992dbe6efa6b8a1649f7b08906137550",
+      "search-in-a-binary-search-tree.java": "bddd51a6f14d23bd8efd72ecaa1d5da19b488fe9"
+    },
     "README.md": {
-      "": "5304ea1bd9fbf991edc4234e302b7d509d6d47bd"
+      "": "ea662f486f8c205a71e960ad37e5aeb178c5b1c3"
     },
     "stats.json": {
-      "": "c62c5dee13fe5f50a63d63447fd7cbe76efbcb3d"
+      "": "e265c3ec45f1d333151fcf0013cff7979e046988"
     }
   },
-  "solved": 6
+  "solved": 7
 }
