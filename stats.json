@@ -18,13 +18,14 @@
     },
     "minimum-absolute-difference-in-bst": {
       "README.md": "bbc0a482537b396bbdc233194f0fa74f8e175291",
-      "minimum-absolute-difference-in-bst.java": "8d68cbdbf3661a5251ad657f6c8dd669e857d4d1"
+      "minimum-absolute-difference-in-bst.java": "8d68cbdbf3661a5251ad657f6c8dd669e857d4d1",
+      "minimum-absolute-difference-in-bst.py": "6e43f5fca708023449212c322c603a15d93f5bc3"
     },
     "README.md": {
-      "": "6d42fb98d65de98d12571058db873a5b006d87cd"
+      "": "076229d984d9b41d85810d99767079b70f0d30dd"
     },
     "stats.json": {
-      "": "1091e755d22e83b20acb9efc4e24322e1695d139"
+      "": "118cd364bac2692b4d45d41cbdc97f34902c57d6"
     }
   },
   "solved": 5
