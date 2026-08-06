@@ -1,0 +1,15 @@
+{
+  "shas": {
+    "two-sum": {
+      "README.md": "756afbd0c1a47583a31af3d448da08b5e1a9fada",
+      "two-sum.java": "01308bd45e68be8fa931c0398ee926220431d5d1"
+    },
+    "README.md": {
+      "": "8ccbfa590a9d46fd8b533c6074a1d029a2b6dd4f"
+    },
+    "stats.json": {
+      "": "c4ba7ff06d2aa9976614f33913ed85d41de4bb33"
+    }
+  },
+  "solved": 1
+}
