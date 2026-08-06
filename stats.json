@@ -35,12 +35,16 @@
       "insert-into-a-binary-search-tree.java": "576df05d9c1f23c2a7b8ca03dbbbefa1edb00fb8",
       "insert-into-a-binary-search-tree.py": "fbf5a57818125e9ad6f131a7181a0bae6388c814"
     },
+    "range-sum-of-bst": {
+      "README.md": "33f88e5ab6754a9bea4af924d266e4aec8701871",
+      "range-sum-of-bst.java": "8f74fa0e4cf77593f4212e14ebf98994cc844e19"
+    },
     "README.md": {
-      "": "c85332da08e6d3a36dd06472ee22f9d740742a40"
+      "": "55ca2d8324bfb42e72aad058fca8d809bdd5a622"
     },
     "stats.json": {
-      "": "24b709a62d4d863f69faabfc9d00b40b2a83940e"
+      "": "29aa887a4992be6fd1647e39fa1a737a463348ac"
     }
   },
-  "solved": 8
+  "solved": 9
 }

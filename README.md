@@ -11,6 +11,7 @@
 | 6 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst) | LeetCode #653 | [Java](./two-sum-iv-input-is-a-bst/two-sum-iv-input-is-a-bst.java) |
 | 7 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree) | LeetCode #700 | [Java](./search-in-a-binary-search-tree/search-in-a-binary-search-tree.java), [Python](./search-in-a-binary-search-tree/search-in-a-binary-search-tree.py) |
 | 8 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree) | LeetCode #701 | [Java](./insert-into-a-binary-search-tree/insert-into-a-binary-search-tree.java), [Python](./insert-into-a-binary-search-tree/insert-into-a-binary-search-tree.py) |
+| 9 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) | LeetCode #938 | [Java](./range-sum-of-bst/range-sum-of-bst.java) |
 
 ## Tree
 | # | Problem | Platform | Language |
@@ -23,6 +24,7 @@
 | 6 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst) | LeetCode #653 | [Java](./two-sum-iv-input-is-a-bst/two-sum-iv-input-is-a-bst.java) |
 | 7 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree) | LeetCode #700 | [Java](./search-in-a-binary-search-tree/search-in-a-binary-search-tree.java), [Python](./search-in-a-binary-search-tree/search-in-a-binary-search-tree.py) |
 | 8 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree) | LeetCode #701 | [Java](./insert-into-a-binary-search-tree/insert-into-a-binary-search-tree.java), [Python](./insert-into-a-binary-search-tree/insert-into-a-binary-search-tree.py) |
+| 9 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) | LeetCode #938 | [Java](./range-sum-of-bst/range-sum-of-bst.java) |
 
 ---
 *Synced automatically using [CodeSync](https://github.com/pardeep1916P/codeSync).*
