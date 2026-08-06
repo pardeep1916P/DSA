@@ -8,12 +8,16 @@
       "README.md": "36b5c1a88aa5a740905fd222b430f3e2dac7d72d",
       "merge-two-sorted-lists.java": "baba2a7aedc52caeeb65069e6e8e426c87c94da1"
     },
+    "validate-binary-search-tree": {
+      "README.md": "c97db5b9ebfc97ea50ab17016048e90ccb4635de",
+      "validate-binary-search-tree.java": "8899acc273d51b189e8ebe488ee2cbae201ea513"
+    },
     "README.md": {
-      "": "0803b0742c1b1e95391c7c140a7c45bee31ff968"
+      "": "852726499abcf14f2d44c86e8ad527e6bfd61498"
     },
     "stats.json": {
-      "": "d23e6204324c361d10b4f4a0ab8b6632657e8983"
+      "": "699c9639ccb05ed1dc469645453ccb067e82998f"
     }
   },
-  "solved": 2
+  "solved": 3
 }
