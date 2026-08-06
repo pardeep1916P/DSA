@@ -21,12 +21,16 @@
       "minimum-absolute-difference-in-bst.java": "8d68cbdbf3661a5251ad657f6c8dd669e857d4d1",
       "minimum-absolute-difference-in-bst.py": "6e43f5fca708023449212c322c603a15d93f5bc3"
     },
+    "two-sum-iv-input-is-a-bst": {
+      "README.md": "edc8c40e6b9f96bfac1f648fb2351be2b7e09cde",
+      "two-sum-iv-input-is-a-bst.java": "e24bfb6bca163538f5e40962578df68a2a63d720"
+    },
     "README.md": {
-      "": "076229d984d9b41d85810d99767079b70f0d30dd"
+      "": "5304ea1bd9fbf991edc4234e302b7d509d6d47bd"
     },
     "stats.json": {
-      "": "118cd364bac2692b4d45d41cbdc97f34902c57d6"
+      "": "c62c5dee13fe5f50a63d63447fd7cbe76efbcb3d"
     }
   },
-  "solved": 5
+  "solved": 6
 }
