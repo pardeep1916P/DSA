@@ -12,12 +12,16 @@
       "README.md": "c97db5b9ebfc97ea50ab17016048e90ccb4635de",
       "validate-binary-search-tree.java": "8899acc273d51b189e8ebe488ee2cbae201ea513"
     },
+    "delete-node-in-a-bst": {
+      "README.md": "debeaf802e4a2db8889b5170574abe686f0114f1",
+      "delete-node-in-a-bst.java": "e94e656cdddcb8771c268fd3f449b42ced215435"
+    },
     "README.md": {
-      "": "852726499abcf14f2d44c86e8ad527e6bfd61498"
+      "": "a25431a4502e71aa60b65cd63e6201cc90b24c97"
     },
     "stats.json": {
-      "": "699c9639ccb05ed1dc469645453ccb067e82998f"
+      "": "da33c55d5ccccdfd03f700c9ab2dd19c747989e4"
     }
   },
-  "solved": 3
+  "solved": 4
 }
