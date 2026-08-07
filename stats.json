@@ -40,11 +40,15 @@
       "range-sum-of-bst.java": "8f74fa0e4cf77593f4212e14ebf98994cc844e19"
     },
     "README.md": {
-      "": "55ca2d8324bfb42e72aad058fca8d809bdd5a622"
+      "": "0c28edfbdbc77a7c4378cab338c9b4efe8177a5b"
     },
     "stats.json": {
-      "": "29aa887a4992be6fd1647e39fa1a737a463348ac"
+      "": "ca0c8b30f37daf1b083970255614a1c486f15bac"
+    },
+    "kth-smallest-element-in-a-bst": {
+      "kth-smallest-element-in-a-bst.java": "299872770cf39c4891539cafc111c2aadf03ff01",
+      "README.md": "e598c98d433511067d15a14c0ceddfc27c425e4c"
     }
   },
-  "solved": 9
+  "solved": 10
 }
