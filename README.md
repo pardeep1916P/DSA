@@ -1,4 +1,4 @@
-# LeetCode Solutions
+# DSA
 
 ## Array
 | # | Problem | Platform | Language |
