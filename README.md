@@ -18,6 +18,7 @@
 | 7 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) | LeetCode #938 | [Java](./range-sum-of-bst/range-sum-of-bst.java) |
 | 8 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | LeetCode #230 | [Java](./kth-smallest-element-in-a-bst/kth-smallest-element-in-a-bst.java) |
 | 9 | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | LeetCode #799 | [Java](./minimum-distance-between-bst-nodes/minimum-distance-between-bst-nodes.java) |
+| 10 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | LeetCode #669 | [Java](./trim-a-binary-search-tree/trim-a-binary-search-tree.java) |
 
 ## Binary Tree
 | # | Problem | Platform | Language |
@@ -31,6 +32,7 @@
 | 7 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) | LeetCode #938 | [Java](./range-sum-of-bst/range-sum-of-bst.java) |
 | 8 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | LeetCode #230 | [Java](./kth-smallest-element-in-a-bst/kth-smallest-element-in-a-bst.java) |
 | 9 | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | LeetCode #799 | [Java](./minimum-distance-between-bst-nodes/minimum-distance-between-bst-nodes.java) |
+| 10 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | LeetCode #669 | [Java](./trim-a-binary-search-tree/trim-a-binary-search-tree.java) |
 
 ## Breadth-First Search
 | # | Problem | Platform | Language |
@@ -48,6 +50,7 @@
 | 4 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) | LeetCode #938 | [Java](./range-sum-of-bst/range-sum-of-bst.java) |
 | 5 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | LeetCode #230 | [Java](./kth-smallest-element-in-a-bst/kth-smallest-element-in-a-bst.java) |
 | 6 | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | LeetCode #799 | [Java](./minimum-distance-between-bst-nodes/minimum-distance-between-bst-nodes.java) |
+| 7 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | LeetCode #669 | [Java](./trim-a-binary-search-tree/trim-a-binary-search-tree.java) |
 
 ## Hash Table
 | # | Problem | Platform | Language |
@@ -77,6 +80,7 @@
 | 7 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) | LeetCode #938 | [Java](./range-sum-of-bst/range-sum-of-bst.java) |
 | 8 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | LeetCode #230 | [Java](./kth-smallest-element-in-a-bst/kth-smallest-element-in-a-bst.java) |
 | 9 | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | LeetCode #799 | [Java](./minimum-distance-between-bst-nodes/minimum-distance-between-bst-nodes.java) |
+| 10 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | LeetCode #669 | [Java](./trim-a-binary-search-tree/trim-a-binary-search-tree.java) |
 
 ## Two Pointers
 | # | Problem | Platform | Language |
