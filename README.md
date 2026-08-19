@@ -63,6 +63,12 @@
 | :--- | :--- | :--- | :--- |
 | 1 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | LeetCode #21 | [Java](./merge-two-sorted-lists/merge-two-sorted-lists.java) |
 
+## Math
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | LeetCode #9 | [Java](./palindrome-number/palindrome-number.java) |
+
 ## Recursion
 | # | Problem | Platform | Language |
 | :--- | :--- | :--- | :--- |
