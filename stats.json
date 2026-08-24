@@ -13,8 +13,8 @@
       "validate-binary-search-tree.java": "8899acc273d51b189e8ebe488ee2cbae201ea513"
     },
     "delete-node-in-a-bst": {
-      "README.md": "1409fb99b7dd6e2f2e94ccebc52430a6fbcd1a69",
-      "delete-node-in-a-bst.java": "6dd1ca5d6e2789532386014caa4d2c1ea8803ef8"
+      "README.md": "cd23179fc6550002f62a1e9f9236f6319cd46319",
+      "delete-node-in-a-bst.java": "e94e656cdddcb8771c268fd3f449b42ced215435"
     },
     "minimum-absolute-difference-in-bst": {
       "README.md": "bbc0a482537b396bbdc233194f0fa74f8e175291",
@@ -40,27 +40,28 @@
       "range-sum-of-bst.java": "8f74fa0e4cf77593f4212e14ebf98994cc844e19"
     },
     "README.md": {
-      "": "4f5af84e92be2dcb8759911085a8fb2ea85df0b9"
+      "": "3cfed8fa9c540ca1a97e037e54a6de471a4bfdba"
     },
     "stats.json": {
-      "": "aca35a7c1b6bff71f23b484da739e9e0caf378b9"
+      "": "bfd50cf0e7467d7d98d127f96e45593f24ac62de"
     },
     "kth-smallest-element-in-a-bst": {
-      "kth-smallest-element-in-a-bst.java": "299872770cf39c4891539cafc111c2aadf03ff01",
-      "README.md": "e598c98d433511067d15a14c0ceddfc27c425e4c"
+      "kth-smallest-element-in-a-bst.java": "31f6c1b88c8bd7c8ac499bb4b2e341bc731126fb",
+      "README.md": "ee541e4e5e74b5c0a2c6b1881c1f307bfc2f9b3c"
     },
     "minimum-distance-between-bst-nodes": {
-      "minimum-distance-between-bst-nodes.java": "b210a0c89310a36414881ec87d6a580904141056",
-      "README.md": "46657cb7e9be0785662038a4209bed63a837f399"
+      "minimum-distance-between-bst-nodes.java": "7bfdfe9e98b3b54fcab179a805493870ac9efb59",
+      "README.md": "5670c2e6194366a8be008e1c0717a9c174ad509f"
     },
     "trim-a-binary-search-tree": {
-      "trim-a-binary-search-tree.java": "dcd470f292466dd2be40b5dca8f1ff247e6cc278",
-      "README.md": "8879bd0f601e91b18d266dd3e1d5a637082f46ea"
+      "trim-a-binary-search-tree.java": "d4ba78e7737c262e70a517c2e213967374b73b75",
+      "README.md": "94a2a1c332f018c66928b24c9510edaa2b379d29"
     },
     "palindrome-number": {
-      "palindrome-number.java": "bab679ea5961a7f43b50a4eca015f6193d9ec8f9",
-      "README.md": "c05e195d360575390801c482fcdd3a2821bdfd0d"
+      "palindrome-number.java": "635440e2230fd802f6345414140bb9f190b01982",
+      "README.md": "c4c56d895492b0c6b977765d195fa4f00322d05d"
     }
   },
-  "solved": 13
+  "solved": 13,
+  "codesync_state": "cs:eyJsYXlvdXQiOiJkaWZmaWN1bHR5Iiwic3luY09uQWNjZXB0Ijp0cnVlLCJzeW5jSGlzdG9yaWNhbE9uVmlldyI6ZmFsc2UsImRlc2t0b3BOb3RpZmljYXRpb25zIjpmYWxzZSwidGhlbWUiOiJhbW9sZWQifQ=="
 }
