@@ -43,7 +43,7 @@
       "": "3cfed8fa9c540ca1a97e037e54a6de471a4bfdba"
     },
     "stats.json": {
-      "": "bfd50cf0e7467d7d98d127f96e45593f24ac62de"
+      "": "25eb61d2cab94ce77bddd1b4a9314a2fdb9ab159"
     },
     "kth-smallest-element-in-a-bst": {
       "kth-smallest-element-in-a-bst.java": "31f6c1b88c8bd7c8ac499bb4b2e341bc731126fb",
@@ -63,5 +63,5 @@
     }
   },
   "solved": 13,
-  "codesync_state": "cs:eyJsYXlvdXQiOiJkaWZmaWN1bHR5Iiwic3luY09uQWNjZXB0Ijp0cnVlLCJzeW5jSGlzdG9yaWNhbE9uVmlldyI6ZmFsc2UsImRlc2t0b3BOb3RpZmljYXRpb25zIjpmYWxzZSwidGhlbWUiOiJhbW9sZWQifQ=="
+  "codesync_state": "cs:eyJsYXlvdXQiOiJkaWZmaWN1bHR5Iiwic3luY09uQWNjZXB0IjpmYWxzZSwic3luY0hpc3RvcmljYWxPblZpZXciOmZhbHNlLCJkZXNrdG9wTm90aWZpY2F0aW9ucyI6dHJ1ZSwidGhlbWUiOiJhbW9sZWQifQ=="
 }
