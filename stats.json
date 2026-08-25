@@ -13,8 +13,8 @@
       "validate-binary-search-tree.java": "8899acc273d51b189e8ebe488ee2cbae201ea513"
     },
     "delete-node-in-a-bst": {
-      "README.md": "cd23179fc6550002f62a1e9f9236f6319cd46319",
-      "delete-node-in-a-bst.java": "e94e656cdddcb8771c268fd3f449b42ced215435"
+      "README.md": "893ce85a5b4391e24198efceff0fb6e03b4e15b5",
+      "delete-node-in-a-bst.java": "6dd1ca5d6e2789532386014caa4d2c1ea8803ef8"
     },
     "minimum-absolute-difference-in-bst": {
       "README.md": "bbc0a482537b396bbdc233194f0fa74f8e175291",
@@ -40,10 +40,10 @@
       "range-sum-of-bst.java": "8f74fa0e4cf77593f4212e14ebf98994cc844e19"
     },
     "README.md": {
-      "": "3cfed8fa9c540ca1a97e037e54a6de471a4bfdba"
+      "": "e8b92bfe1f41956c05ad67932604c6b3bf53323d"
     },
     "stats.json": {
-      "": "25eb61d2cab94ce77bddd1b4a9314a2fdb9ab159"
+      "": "9582e6f3600484e917cd0cd52831caaf5d25f1fa"
     },
     "kth-smallest-element-in-a-bst": {
       "kth-smallest-element-in-a-bst.java": "31f6c1b88c8bd7c8ac499bb4b2e341bc731126fb",
