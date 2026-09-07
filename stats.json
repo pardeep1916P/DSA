@@ -43,7 +43,7 @@
       "": "e8b92bfe1f41956c05ad67932604c6b3bf53323d"
     },
     "stats.json": {
-      "": "b1cd15ecc099dab4e6b6fbcc3b6206084f69a303"
+      "": "fc295192dd2bb50b97f8c97196ba2628227edac4"
     },
     "kth-smallest-element-in-a-bst": {
       "kth-smallest-element-in-a-bst.java": "31f6c1b88c8bd7c8ac499bb4b2e341bc731126fb",
@@ -54,8 +54,8 @@
       "README.md": "5670c2e6194366a8be008e1c0717a9c174ad509f"
     },
     "trim-a-binary-search-tree": {
-      "trim-a-binary-search-tree.java": "d4ba78e7737c262e70a517c2e213967374b73b75",
-      "README.md": "94a2a1c332f018c66928b24c9510edaa2b379d29"
+      "trim-a-binary-search-tree.java": "ad3d58501f0a5183e2c4760b317605e6a83b309a",
+      "README.md": "decaec9ecdebb753007fa76f9d74a890beaeec0f"
     },
     "palindrome-number": {
       "palindrome-number.java": "635440e2230fd802f6345414140bb9f190b01982",

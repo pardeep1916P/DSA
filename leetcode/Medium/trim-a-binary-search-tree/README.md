@@ -3,7 +3,7 @@
 ## Metadata
 - **Difficulty:** <span style="color: #eab308; font-weight: bold;">Medium</span>
 - **Languages:** `Java`
-- **Submission Date:** August 17, 2026
+- **Submission Date:** September 7, 2026
 - **Tags:** `Tree`, `Depth-First Search`, `Binary Search Tree`, `Binary Tree`
 
 ## Description
@@ -73,13 +73,9 @@ class Solution {
     public TreeNode trimBST(TreeNode root, int low, int high) {
         if (root == null) return null;
 
-        if (root.val < low) {
-            return trimBST(root.right, low, high);
-        }
+        if(root.val < low) return trimBST(root.right, low, high);
 
-        if (root.val > high) {
-            return trimBST(root.left, low, high);
-        }
+        if(root.val > high) return trimBST(root.left, low, high);
 
         root.left = trimBST(root.left, low, high);
         root.right = trimBST(root.right, low, high);
