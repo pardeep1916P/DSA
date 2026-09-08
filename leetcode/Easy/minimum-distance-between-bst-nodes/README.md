@@ -3,7 +3,7 @@
 ## Metadata
 - **Difficulty:** <span style="color: #22c55e; font-weight: bold;">Easy</span>
 - **Languages:** `Java`
-- **Submission Date:** August 22, 2026
+- **Submission Date:** September 8, 2026
 - **Tags:** `Tree`, `Depth-First Search`, `Breadth-First Search`, `Binary Search Tree`, `Binary Tree`
 
 ## Description
@@ -63,29 +63,26 @@ Output: 1
 class Solution {
 
     private TreeNode prev = null;
-
+    
     private int minDiff = Integer.MAX_VALUE;
 
     public int minDiffInBST(TreeNode root) {
-        inorderTraversal(root);
+        inOrder(root);
         return minDiff;
     }
 
-    private void inorderTraversal(TreeNode node) {
-        if (node == null)return;
+    private void inOrder(TreeNode root){
+        if(root == null) return;
+        
+        inOrder(root.left);
 
-        inorderTraversal(node.left);
-
-        if (prev != null) {
-
-            int diff = Math.abs(node.val - prev.val);
-            if (diff < minDiff) minDiff = diff;
+        if(prev != null) {
+            int diff = Math.abs(root.val - prev.val);
+            minDiff = Math.min(minDiff, diff);
         }
 
-        prev = node;
-
-        inorderTraversal(node.right);
-
+        prev = root;
+        inOrder(root.right);
     }
 }
 ```

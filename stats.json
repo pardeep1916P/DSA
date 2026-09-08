@@ -43,15 +43,15 @@
       "": "ca2c9d1ae792a7b31bb3c932dc0e332875658f4e"
     },
     "stats.json": {
-      "": "9f51946c0603a10748593a2ca34fc193fa266a03"
+      "": "17286da0260364210ab224e1a0ff1c755a515623"
     },
     "kth-smallest-element-in-a-bst": {
       "kth-smallest-element-in-a-bst.java": "31f6c1b88c8bd7c8ac499bb4b2e341bc731126fb",
       "README.md": "ee541e4e5e74b5c0a2c6b1881c1f307bfc2f9b3c"
     },
     "minimum-distance-between-bst-nodes": {
-      "minimum-distance-between-bst-nodes.java": "b210a0c89310a36414881ec87d6a580904141056",
-      "README.md": "92799f1a9855e14063959bb8e46b7d38b51284ba"
+      "minimum-distance-between-bst-nodes.java": "a226dfe790e72f64a774c72dcbab8f7ed4dfd956",
+      "README.md": "0c29e0f3dc38fa2cec371035993cdc32b478eaa3"
     },
     "trim-a-binary-search-tree": {
       "trim-a-binary-search-tree.java": "ad3d58501f0a5183e2c4760b317605e6a83b309a",
