@@ -40,10 +40,10 @@
       "range-sum-of-bst.java": "8f74fa0e4cf77593f4212e14ebf98994cc844e19"
     },
     "README.md": {
-      "": "fd83c3234c1122b9bd6da91b9a1626f8bdd03eea"
+      "": "7c7b72f553148607fc9b1e7b2e699e6ffd9803a8"
     },
     "stats.json": {
-      "": "b41b092d11a5d40676d1fc46894789fb9a14990b"
+      "": "bc091ceda754ddd3c9916c07b7529e44e18679bb"
     },
     "kth-smallest-element-in-a-bst": {
       "kth-smallest-element-in-a-bst.java": "31f6c1b88c8bd7c8ac499bb4b2e341bc731126fb",
@@ -68,7 +68,8 @@
     },
     "convert-bst-to-greater-tree": {
       "convert-bst-to-greater-tree.java": "99f2b1654b42b7701a97f9dd3958904af7e51262",
-      "README.md": "be095261f5ef6e552fd5cfc181209057844df4dc"
+      "README.md": "b07491384847cc8653ae9c3ad6dbdaa4cf3a0250",
+      "convert-bst-to-greater-tree.py": "993d37e15c39dbe86c7218e552b54aeee469b54d"
     }
   },
   "solved": 15,

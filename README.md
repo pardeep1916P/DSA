@@ -20,7 +20,7 @@
 | 9 | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | LeetCode #799 | [Java](./leetcode/Easy/minimum-distance-between-bst-nodes/minimum-distance-between-bst-nodes.java) |
 | 10 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | LeetCode #669 | [Java](./leetcode/Medium/trim-a-binary-search-tree/trim-a-binary-search-tree.java), [Python](./leetcode/Medium/trim-a-binary-search-tree/trim-a-binary-search-tree.py) |
 | 11 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | LeetCode #173 | [Java](./leetcode/Medium/binary-search-tree-iterator/binary-search-tree-iterator.java) |
-| 12 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | LeetCode #538 | [Java](./leetcode/Medium/convert-bst-to-greater-tree/convert-bst-to-greater-tree.java) |
+| 12 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | LeetCode #538 | [Java](./leetcode/Medium/convert-bst-to-greater-tree/convert-bst-to-greater-tree.java), [Python](./leetcode/Medium/convert-bst-to-greater-tree/convert-bst-to-greater-tree.py) |
 
 ## Binary Tree
 | # | Problem | Platform | Language |
@@ -36,7 +36,7 @@
 | 9 | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | LeetCode #799 | [Java](./leetcode/Easy/minimum-distance-between-bst-nodes/minimum-distance-between-bst-nodes.java) |
 | 10 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | LeetCode #669 | [Java](./leetcode/Medium/trim-a-binary-search-tree/trim-a-binary-search-tree.java), [Python](./leetcode/Medium/trim-a-binary-search-tree/trim-a-binary-search-tree.py) |
 | 11 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | LeetCode #173 | [Java](./leetcode/Medium/binary-search-tree-iterator/binary-search-tree-iterator.java) |
-| 12 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | LeetCode #538 | [Java](./leetcode/Medium/convert-bst-to-greater-tree/convert-bst-to-greater-tree.java) |
+| 12 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | LeetCode #538 | [Java](./leetcode/Medium/convert-bst-to-greater-tree/convert-bst-to-greater-tree.java), [Python](./leetcode/Medium/convert-bst-to-greater-tree/convert-bst-to-greater-tree.py) |
 
 ## Breadth-First Search
 | # | Problem | Platform | Language |
@@ -55,7 +55,7 @@
 | 5 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | LeetCode #230 | [Java](./leetcode/Medium/kth-smallest-element-in-a-bst/kth-smallest-element-in-a-bst.java) |
 | 6 | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | LeetCode #799 | [Java](./leetcode/Easy/minimum-distance-between-bst-nodes/minimum-distance-between-bst-nodes.java) |
 | 7 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | LeetCode #669 | [Java](./leetcode/Medium/trim-a-binary-search-tree/trim-a-binary-search-tree.java), [Python](./leetcode/Medium/trim-a-binary-search-tree/trim-a-binary-search-tree.py) |
-| 8 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | LeetCode #538 | [Java](./leetcode/Medium/convert-bst-to-greater-tree/convert-bst-to-greater-tree.java) |
+| 8 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | LeetCode #538 | [Java](./leetcode/Medium/convert-bst-to-greater-tree/convert-bst-to-greater-tree.java), [Python](./leetcode/Medium/convert-bst-to-greater-tree/convert-bst-to-greater-tree.py) |
 
 ## Design
 
@@ -111,7 +111,7 @@
 | 9 | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | LeetCode #799 | [Java](./leetcode/Easy/minimum-distance-between-bst-nodes/minimum-distance-between-bst-nodes.java) |
 | 10 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | LeetCode #669 | [Java](./leetcode/Medium/trim-a-binary-search-tree/trim-a-binary-search-tree.java), [Python](./leetcode/Medium/trim-a-binary-search-tree/trim-a-binary-search-tree.py) |
 | 11 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | LeetCode #173 | [Java](./leetcode/Medium/binary-search-tree-iterator/binary-search-tree-iterator.java) |
-| 12 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | LeetCode #538 | [Java](./leetcode/Medium/convert-bst-to-greater-tree/convert-bst-to-greater-tree.java) |
+| 12 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | LeetCode #538 | [Java](./leetcode/Medium/convert-bst-to-greater-tree/convert-bst-to-greater-tree.java), [Python](./leetcode/Medium/convert-bst-to-greater-tree/convert-bst-to-greater-tree.py) |
 
 ## Two Pointers
 | # | Problem | Platform | Language |

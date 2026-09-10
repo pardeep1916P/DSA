@@ -2,7 +2,7 @@
 
 ## Metadata
 - **Difficulty:** <span style="color: #eab308; font-weight: bold;">Medium</span>
-- **Languages:** `Java`
+- **Languages:** `Python`
 - **Submission Date:** 10 September 2026
 - **Tags:** `Tree`, `Depth-First Search`, `Binary Search Tree`, `Binary Tree`
 
@@ -49,36 +49,26 @@ Output: [1,null,1]
 
 ## Solution
 
-### Java
-```java
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
-class Solution {
+### Python
+```python
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+class Solution:
 
-    private int sum = 0;
+    def __init__(self):
+        self.sum = 0
 
-    public TreeNode convertBST(TreeNode root) {
-        if ( root == null ) return null;
-        convertBST(root.right);
-        sum += root.val;
-        root.val = sum;
-        convertBST(root.left);
-        return root;
-    }
-}
+    def convertBST(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
+        if root is None: return None
+        self.convertBST(root.right)
+        self.sum += root.val
+        root.val = self.sum
+        self.convertBST(root.left)
+        return root
 ```
 
 ---
