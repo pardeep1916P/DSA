@@ -40,10 +40,10 @@
       "range-sum-of-bst.java": "8f74fa0e4cf77593f4212e14ebf98994cc844e19"
     },
     "README.md": {
-      "": "ca2c9d1ae792a7b31bb3c932dc0e332875658f4e"
+      "": "fd83c3234c1122b9bd6da91b9a1626f8bdd03eea"
     },
     "stats.json": {
-      "": "17286da0260364210ab224e1a0ff1c755a515623"
+      "": "b41b092d11a5d40676d1fc46894789fb9a14990b"
     },
     "kth-smallest-element-in-a-bst": {
       "kth-smallest-element-in-a-bst.java": "31f6c1b88c8bd7c8ac499bb4b2e341bc731126fb",
@@ -65,8 +65,12 @@
     "binary-search-tree-iterator": {
       "binary-search-tree-iterator.java": "14bc3a486c980c484538db904041ed6c1bb3df52",
       "README.md": "8383b3daf56c78bb5c027ef37e6887c4bab55e71"
+    },
+    "convert-bst-to-greater-tree": {
+      "convert-bst-to-greater-tree.java": "99f2b1654b42b7701a97f9dd3958904af7e51262",
+      "README.md": "be095261f5ef6e552fd5cfc181209057844df4dc"
     }
   },
-  "solved": 14,
+  "solved": 15,
   "codesync_state": "cs:eyJsYXlvdXQiOiJkaWZmaWN1bHR5Iiwic3luY09uQWNjZXB0IjpmYWxzZSwic3luY0hpc3RvcmljYWxPblZpZXciOnRydWUsImRlc2t0b3BOb3RpZmljYXRpb25zIjp0cnVlLCJ0aGVtZSI6ImFtb2xlZCJ9"
 }
