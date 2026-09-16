@@ -76,14 +76,14 @@
 
 | # | Problem | Platform | Language |
 | :--- | :--- | :--- | :--- |
-| 1 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | LeetCode #141 | [Java](./leetcode/Easy/linked-list-cycle/linked-list-cycle.java) |
+| 1 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | LeetCode #141 | [Java](./leetcode/Easy/linked-list-cycle/linked-list-cycle.java), [Python](./leetcode/Easy/linked-list-cycle/linked-list-cycle.py) |
 
 ## Hash Table
 | # | Problem | Platform | Language |
 | :--- | :--- | :--- | :--- |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum) | LeetCode #1 | [Java](./leetcode/Easy/two-sum/two-sum.java) |
 | 2 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst) | LeetCode #653 | [Java](./leetcode/Easy/two-sum-iv-input-is-a-bst/two-sum-iv-input-is-a-bst.java) |
-| 3 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | LeetCode #141 | [Java](./leetcode/Easy/linked-list-cycle/linked-list-cycle.java) |
+| 3 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | LeetCode #141 | [Java](./leetcode/Easy/linked-list-cycle/linked-list-cycle.java), [Python](./leetcode/Easy/linked-list-cycle/linked-list-cycle.py) |
 
 ## Iterator
 
@@ -95,7 +95,7 @@
 | # | Problem | Platform | Language |
 | :--- | :--- | :--- | :--- |
 | 1 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | LeetCode #21 | [Java](./leetcode/Easy/merge-two-sorted-lists/merge-two-sorted-lists.java) |
-| 2 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | LeetCode #141 | [Java](./leetcode/Easy/linked-list-cycle/linked-list-cycle.java) |
+| 2 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | LeetCode #141 | [Java](./leetcode/Easy/linked-list-cycle/linked-list-cycle.java), [Python](./leetcode/Easy/linked-list-cycle/linked-list-cycle.py) |
 
 ## Math
 
@@ -135,7 +135,7 @@
 | # | Problem | Platform | Language |
 | :--- | :--- | :--- | :--- |
 | 1 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst) | LeetCode #653 | [Java](./leetcode/Easy/two-sum-iv-input-is-a-bst/two-sum-iv-input-is-a-bst.java) |
-| 2 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | LeetCode #141 | [Java](./leetcode/Easy/linked-list-cycle/linked-list-cycle.java) |
+| 2 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | LeetCode #141 | [Java](./leetcode/Easy/linked-list-cycle/linked-list-cycle.java), [Python](./leetcode/Easy/linked-list-cycle/linked-list-cycle.py) |
 
 ---
 *Synced automatically using [CodeSync](https://github.com/pardeep1916P/codeSync).*

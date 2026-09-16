@@ -2,7 +2,7 @@
 
 ## Metadata
 - **Difficulty:** <span style="color: #22c55e; font-weight: bold;">Easy</span>
-- **Languages:** `Java`
+- **Languages:** `Python`
 - **Submission Date:** 16 September 2026
 - **Tags:** `Hash Table`, `Linked List`, `Two Pointers`, `Floyd's Cycle Finding Algorithm`
 
@@ -67,32 +67,24 @@ Explanation: There is no cycle in the linked list.
 
 ## Solution
 
-### Java
-```java
-/**
- * Definition for singly-linked list.
- * class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode(int x) {
- *         val = x;
- *         next = null;
- *     }
- * }
- */
-public class Solution {
-    public boolean hasCycle(ListNode head) {
-        if(head == null) return false;
-        ListNode fast = head;
-        ListNode slow = head;
-        while(fast != null && fast.next != null) {
-            fast = fast.next.next;
-            slow = slow.next;
-            if(fast == slow) return true;
-        }
-        return false;
-    }
-}
+### Python
+```python
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, x):
+#         self.val = x
+#         self.next = None
+
+class Solution:
+    def hasCycle(self, head: Optional[ListNode]) -> bool:
+        if not head : return False
+        fast = head
+        slow = head
+        while fast and fast.next:
+            fast = fast.next.next
+            slow = slow.next
+            if fast == slow: return True
+        return False
 ```
 
 ---
