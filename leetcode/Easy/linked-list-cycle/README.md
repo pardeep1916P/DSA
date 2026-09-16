@@ -3,7 +3,7 @@
 ## Metadata
 - **Difficulty:** <span style="color: #22c55e; font-weight: bold;">Easy</span>
 - **Languages:** `Python`
-- **Submission Date:** 16 September 2026
+- **Submission Date:** 17 September 2026
 - **Tags:** `Hash Table`, `Linked List`, `Two Pointers`, `Floyd's Cycle Finding Algorithm`
 
 ## Description
