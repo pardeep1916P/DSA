@@ -5,6 +5,7 @@
 | :--- | :--- | :--- | :--- |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum) | LeetCode #1 | [Java](./leetcode/Easy/two-sum/two-sum.java) |
 | 2 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst) | LeetCode #653 | [Java](./leetcode/Easy/two-sum-iv-input-is-a-bst/two-sum-iv-input-is-a-bst.java) |
+| 3 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | LeetCode #108 | [Java](./leetcode/Easy/convert-sorted-array-to-binary-search-tree/convert-sorted-array-to-binary-search-tree.java) |
 
 ## Binary Search Tree
 | # | Problem | Platform | Language |
@@ -21,6 +22,7 @@
 | 10 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | LeetCode #669 | [Java](./leetcode/Medium/trim-a-binary-search-tree/trim-a-binary-search-tree.java), [Python](./leetcode/Medium/trim-a-binary-search-tree/trim-a-binary-search-tree.py) |
 | 11 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | LeetCode #173 | [Java](./leetcode/Medium/binary-search-tree-iterator/binary-search-tree-iterator.java) |
 | 12 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | LeetCode #538 | [Java](./leetcode/Medium/convert-bst-to-greater-tree/convert-bst-to-greater-tree.java), [Python](./leetcode/Medium/convert-bst-to-greater-tree/convert-bst-to-greater-tree.py) |
+| 13 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | LeetCode #108 | [Java](./leetcode/Easy/convert-sorted-array-to-binary-search-tree/convert-sorted-array-to-binary-search-tree.java) |
 
 ## Binary Tree
 | # | Problem | Platform | Language |
@@ -37,6 +39,7 @@
 | 10 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | LeetCode #669 | [Java](./leetcode/Medium/trim-a-binary-search-tree/trim-a-binary-search-tree.java), [Python](./leetcode/Medium/trim-a-binary-search-tree/trim-a-binary-search-tree.py) |
 | 11 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | LeetCode #173 | [Java](./leetcode/Medium/binary-search-tree-iterator/binary-search-tree-iterator.java) |
 | 12 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | LeetCode #538 | [Java](./leetcode/Medium/convert-bst-to-greater-tree/convert-bst-to-greater-tree.java), [Python](./leetcode/Medium/convert-bst-to-greater-tree/convert-bst-to-greater-tree.py) |
+| 13 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | LeetCode #108 | [Java](./leetcode/Easy/convert-sorted-array-to-binary-search-tree/convert-sorted-array-to-binary-search-tree.java) |
 
 ## Breadth-First Search
 | # | Problem | Platform | Language |
@@ -62,6 +65,12 @@
 | # | Problem | Platform | Language |
 | :--- | :--- | :--- | :--- |
 | 1 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | LeetCode #173 | [Java](./leetcode/Medium/binary-search-tree-iterator/binary-search-tree-iterator.java) |
+
+## Divide and Conquer
+
+| # | Problem | Platform | Language |
+| :--- | :--- | :--- | :--- |
+| 1 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | LeetCode #108 | [Java](./leetcode/Easy/convert-sorted-array-to-binary-search-tree/convert-sorted-array-to-binary-search-tree.java) |
 
 ## Hash Table
 | # | Problem | Platform | Language |
@@ -112,6 +121,7 @@
 | 10 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | LeetCode #669 | [Java](./leetcode/Medium/trim-a-binary-search-tree/trim-a-binary-search-tree.java), [Python](./leetcode/Medium/trim-a-binary-search-tree/trim-a-binary-search-tree.py) |
 | 11 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | LeetCode #173 | [Java](./leetcode/Medium/binary-search-tree-iterator/binary-search-tree-iterator.java) |
 | 12 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | LeetCode #538 | [Java](./leetcode/Medium/convert-bst-to-greater-tree/convert-bst-to-greater-tree.java), [Python](./leetcode/Medium/convert-bst-to-greater-tree/convert-bst-to-greater-tree.py) |
+| 13 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | LeetCode #108 | [Java](./leetcode/Easy/convert-sorted-array-to-binary-search-tree/convert-sorted-array-to-binary-search-tree.java) |
 
 ## Two Pointers
 | # | Problem | Platform | Language |

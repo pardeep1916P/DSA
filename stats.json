@@ -40,10 +40,10 @@
       "range-sum-of-bst.java": "8f74fa0e4cf77593f4212e14ebf98994cc844e19"
     },
     "README.md": {
-      "": "7c7b72f553148607fc9b1e7b2e699e6ffd9803a8"
+      "": "1f5844b5e1ea22f3b24c2de01821a656bebd3d65"
     },
     "stats.json": {
-      "": "bc091ceda754ddd3c9916c07b7529e44e18679bb"
+      "": "e3078dfc0bbdfd2f3a5f1fc189caebc083fa1b47"
     },
     "kth-smallest-element-in-a-bst": {
       "kth-smallest-element-in-a-bst.java": "31f6c1b88c8bd7c8ac499bb4b2e341bc731126fb",
@@ -70,8 +70,12 @@
       "convert-bst-to-greater-tree.java": "99f2b1654b42b7701a97f9dd3958904af7e51262",
       "README.md": "b07491384847cc8653ae9c3ad6dbdaa4cf3a0250",
       "convert-bst-to-greater-tree.py": "993d37e15c39dbe86c7218e552b54aeee469b54d"
+    },
+    "convert-sorted-array-to-binary-search-tree": {
+      "convert-sorted-array-to-binary-search-tree.java": "83c20a0237ab0a3c666ae040d2178cd6f12365a9",
+      "README.md": "b63fdc9f20d1f73513bd7295aa82b942140de081"
     }
   },
-  "solved": 15,
+  "solved": 16,
   "codesync_state": "cs:eyJsYXlvdXQiOiJkaWZmaWN1bHR5Iiwic3luY09uQWNjZXB0IjpmYWxzZSwic3luY0hpc3RvcmljYWxPblZpZXciOnRydWUsImRlc2t0b3BOb3RpZmljYXRpb25zIjp0cnVlLCJ0aGVtZSI6ImFtb2xlZCJ9"
 }
